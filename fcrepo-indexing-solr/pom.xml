@@ -16,7 +16,7 @@
   <description>Camel-based indexing service for Solr</description>
 
   <properties>
-    <fcrepo-transform.version>4.3.1-SNAPSHOT</fcrepo-transform.version>
+    <fcrepo-transform.version>4.4.1-SNAPSHOT</fcrepo-transform.version>
   </properties>
 
   <dependencies>
